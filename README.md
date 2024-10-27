@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**niophan/niophan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Python**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C++ & Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **a school project**
+
+- 👨‍💻 All of my showcases are currently under construction. 
+
+- 💬 Ask me about **Finland's weather**
+
+- 📫 How to reach me **email or dm**
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kippulainen04&show_icons=true&locale=en" alt="kippulainen04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kippulainen04&" alt="kippulainen04" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kippulainen04&show_icons=true&locale=en&layout=compact" alt="kippulainen04" /></p>
