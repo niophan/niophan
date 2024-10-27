@@ -30,9 +30,14 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=niophan&show_icons=true&locale=en" alt="niophan" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=niophan&" alt="niophan" />
+</p>
+
+<br />
+
+<p align="left">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=niophan&" alt="niophan" />
 </p>
 
 <!--
