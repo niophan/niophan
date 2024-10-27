@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on Python
 
-- 🌱 I’m currently learning **C++ & Python**
+- 🌱 I’m currently learning C++ & Python
 
-- 🎯 I’m looking to collaborate on **a school project**
+- 🎯 I’m looking to collaborate on a school project
 
 - 👨‍💻 All of my showcases are currently under construction. 
 
-- 💬 Ask me about **Finland's weather**
+- 💬 Ask me about Finland's weather
 
-- 📫 How to reach me **email or dm**
+- 📫 How to reach me email or dm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,16 +30,14 @@
   </a>
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=niophan&show_icons=true&locale=en" alt="niophan" />
+<p>&nbsp;
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=niophan&show_icons=true&locale=en" alt="niophan" />
 </p>
-
-<br />
-
-<p align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=niophan&" alt="niophan" />
+<br /> 
+<p>&nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niophan&" alt="niophan" />
 </p>
-
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niophan&show_icons=true&locale=en&layout=compact" alt="niophan" /></p>
--->
+<br /> 
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niophan&show_icons=true&locale=en&layout=compact" alt="niophan" />
+</p>
