@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Python.
 
-- 🌱 I’m currently learning C++ & Python
+- 🌱 I’m currently learning C++ & Python.
 
-- 🎯 I’m looking to collaborate on a school project
+- 🎯 I’m looking to collaborate on a school project.
 
 - 👨‍💻 All of my showcases are currently under construction. 
 
-- 💬 Ask me about Finland's weather
+- 💬 Ask me about Finland's weather.
 
-- 📫 How to reach me email or dm
+- 📫 How to reach me email or dm.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
