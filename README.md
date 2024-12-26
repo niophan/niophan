@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Python.
+- 🔭 I’m currently working on Javascript.
 
-- 🌱 I’m currently learning C++ & Python.
+- 🌱 I’m currently learning C++ & Javascript.
 
 - 🎯 I’m looking to collaborate on a school project.
 
