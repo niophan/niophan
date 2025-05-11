@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=niophan&label=Profile%20views&color=0e75b6&style=flat" alt="niophan" /> </p>
 
 - 🔭 I’m currently working on Javascript.
 
