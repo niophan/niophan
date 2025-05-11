@@ -1,15 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Nio, and I'm studying Software Engineering at Tampere University of Applied Sciences.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=niophan&label=Profile%20views&color=0e75b6&style=flat" alt="niophan" /> </p>
+
+- ✨ Student of life :)
 
 - 🔭 I’m currently working on Javascript.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning MERN stack.
 
-- 🎯 I’m looking to collaborate on a school project.
+- 🎯 I’m looking to collaborate on a few interesting projects for this summer.
 
-- 👨‍💻 All of my showcases are currently under construction. 
+- 🧑🏻‍💻 All of my showcases are currently under construction. 
 
-- 💬 Ask me about Finland's weather.
+- 🌞 Ask me about Finland's weather.
 
 - 📫 How to reach me email or dm.
 
