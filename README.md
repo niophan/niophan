@@ -22,22 +22,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,matlab,cpp,python,js,react,nodejs&theme=light"
 </p>
 
-
-
-<br /> 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niophan&" alt="niophan" />
-</p>
-<br /> 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ![Snake animation](https://github.com/niophan/niophan/blob/output/github-contribution-grid-snake.svg)
