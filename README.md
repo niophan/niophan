@@ -36,3 +36,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niophan&" alt="niophan" />
 </p>
 <br /> 
+![Snake animation](https://github.com/niophan/niophan/blob/output/github-contribution-grid-snake.svg)
