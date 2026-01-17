@@ -22,6 +22,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,matlab,cpp,python,js,react,nodejs
+
+
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -33,14 +37,8 @@
   </a>
 </p>
 
-<p>&nbsp;
-  <img align="center"src="https://github-readme-stats.vercel.app/api?username=niophan&show_icons=true&locale=en" alt="niophan" />
-</p>
 <br /> 
 <p>&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niophan&" alt="niophan" />
 </p>
 <br /> 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niophan&show_icons=true&locale=en&layout=compact" alt="niophan" />
-</p>
