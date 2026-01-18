@@ -2,10 +2,10 @@
 
 **`Curious Engineer (Developer/Chemical Engineer)`**
 
-I am chemical engineer turned web enthusiast with a learn-it-all mindset. What started as a hobby in web development has grown into a passion for building scalable, modern applications. I enjoy bridging engineering thinking with web and DevOps practices to create clean, reliable solutions. When I’m not coding, you’ll find me biking through forests or enjoying sauna and ice swimming.
+I am chemical engineer turned web enthusiast with a learn-it-all mindset. What started as a hobby in web development has grown into a passion for building scalable, modern applications. I enjoy bridging engineering thinking with web and DevOps practices to create clean, reliable solutions. When I’m not coding, you’ll find me biking through forests, playing video games or enjoying sauna and ice swimming.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 <br><br>
 
@@ -50,7 +50,10 @@ const Nio = () => {
 export default Nio;
 
 ```
+<div align="center">
 
 ![Snake animation](https://github.com/niophan/niophan/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=niophan&label=Profile%20views&color=0e75b6&style=flat" alt="niophan" /> </p>
