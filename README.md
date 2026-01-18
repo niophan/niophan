@@ -1,33 +1,56 @@
-## Hi there 👋 I'm Nio, and I'm studying Software Engineering at Tampere University of Applied Sciences.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=niophan&label=Profile%20views&color=0e75b6&style=flat" alt="niophan" /> </p>
+# 👋 Hi, Iam Nio
 
-- ✨ Student of life :)
+**`Curious Engineer (Developer/Chemical Engineer)`**
 
-- 🔭 I’m currently working on Javascript.
+I am chemical engineer turned web enthusiast with a learn-it-all mindset. What started as a hobby in web development has grown into a passion for building scalable, modern applications. I enjoy bridging engineering thinking with web and DevOps practices to create clean, reliable solutions. When I’m not coding, you’ll find me biking through forests or enjoying sauna and ice swimming.
 
-- 🌱 I’m currently learning MERN stack.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</div>
+<br><br>
 
-- 🎯 I’m looking to collaborate on a few interesting projects for this summer.
+```jsx
+const Nio = () => {
+  const profile = {
+    name: 'Nio Phan',
+    education: ['Centria University of Applied Sciences', 'Tampere University of Applied Sciences'],
+    title: 'Learn-It-All Web Engineer',
+    background: 'Chemical Engineering → Web & DevOps',
 
-- 🧑🏻‍💻 All of my showcases are currently under construction. 
+    legacy: {
+      gitHub: 'https://github.com/kippulainen04',
+      portfolio: 'https://nio-phan.netlify.app/',
+    },
 
-- 🌞 Ask me about Finland's weather.
+    connection: {
+      linkedIn: 'https://www.linkedin.com/in/nhan-phan-77358a141',
+      email: 'niophan.io@gmail.com'
+    },
 
-- 📫 How to reach me email or dm.
+    techStack: {
+      frontend: ['JavaScript', 'React'],
+      backend: ['Node.js', 'Express'],
+      database: ['MongoDB', 'SQL'],
+      devops: ['Docker', 'Kubernetes'],
+      embeddedSystem: ['c++']
+    },
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nhan-phan-77358a141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhan-phan-77358a141" height="30" width="40" />
-  </a> 
-</p>
+    hobbies: ['Forest biking', 'Cooking', 'Sauna & ice swimming' ],
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,matlab,cpp,python,js,react,nodejs&theme=light"
-</p>
+    currentlyLearning: ['Rust', 'Python', 'Cloud-native architectures','AWS cloud service' ]
+  };
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  return (
+    <pre style={{ whiteSpace: 'pre-wrap', wordBreak: 'break-word' }}>
+      {JSON.stringify(profile, null, 2)}
+    </pre>
+  );
+};
 
+export default Nio;
+
+```
 
 ![Snake animation](https://github.com/niophan/niophan/blob/output/github-contribution-grid-snake.svg)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=niophan&label=Profile%20views&color=0e75b6&style=flat" alt="niophan" /> </p>
