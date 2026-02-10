@@ -1,4 +1,4 @@
-# 👋 Hi, Iam Nio
+# 👋 Hi, I am Nio
 
 **`Curious Engineer (Developer/Chemical Engineer)`**
 
@@ -15,7 +15,7 @@ const Nio = () => {
     name: 'Nio Phan',
     education: ['Centria University of Applied Sciences', 'Tampere University of Applied Sciences'],
     title: 'Learn-It-All Web Engineer',
-    background: 'Chemical Engineering → Web & DevOps',
+    background: 'Chemical Engineering → Web Developer',
 
     legacy: {
       gitHub: 'https://github.com/kippulainen04',
@@ -32,7 +32,8 @@ const Nio = () => {
       backend: ['Node.js', 'Express'],
       database: ['MongoDB', 'SQL'],
       devops: ['Docker', 'Kubernetes'],
-      embeddedSystem: ['c++']
+      embeddedSystem: ['c++'],
+      testing: ['Rtl', 'Vitest', 'Playwright']
     },
 
     hobbies: ['Forest biking', 'Cooking', 'Sauna & ice swimming' ],
