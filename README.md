@@ -14,7 +14,7 @@ const Nio = () => {
   const profile = {
     name: 'Nio Phan',
     education: ['Centria University of Applied Sciences', 'Tampere University of Applied Sciences'],
-    title: 'Learn-It-All Web Engineer',
+    title: 'IT Engineer',
     background: 'Chemical Engineering → Web Developer',
 
     legacy: {
@@ -33,12 +33,13 @@ const Nio = () => {
       database: ['MongoDB', 'SQL'],
       devops: ['Docker', 'Kubernetes'],
       embeddedSystem: ['c++'],
+      API-teknologia: ['REST'],
       testing: ['Rtl', 'Vitest', 'Playwright']
     },
 
     hobbies: ['Forest biking', 'Cooking', 'Sauna & ice swimming' ],
 
-    currentlyLearning: ['Rust', 'Python', 'Cloud-native architectures','AWS cloud service' ]
+    currentlyLearning: ['GraphQl','AWS cloud service' ]
   };
 
   return (
