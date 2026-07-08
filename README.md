@@ -32,14 +32,15 @@ const Nio = () => {
       backend: ['Node.js', 'Express'],
       database: ['MongoDB', 'SQL'],
       devops: ['Docker', 'Kubernetes'],
-      embeddedSystem: ['c++'],
-      API-teknologia: ['REST'],
-      testing: ['Rtl', 'Vitest', 'Playwright']
+      embeddedSystem: ['c++', 'Arduino'],
+      apiTechs: ['REST'],
+      testing: ['Rtl', 'Vitest', 'Playwright'],
+      others: ['Rust']
     },
 
     hobbies: ['Forest biking', 'Cooking', 'Sauna & ice swimming' ],
 
-    currentlyLearning: ['GraphQl','AWS cloud service' ]
+    currentlyLearning: ['GraphQl', 'Python', 'AWS cloud service' ]
   };
 
   return (
