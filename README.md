@@ -33,14 +33,14 @@ const Nio = () => {
       database: ['MongoDB', 'SQL'],
       devops: ['Docker', 'Kubernetes'],
       embeddedSystem: ['c++', 'Arduino'],
-      apiTechs: ['REST'],
+      apiTechs: ['REST', 'GraphQl'],
       testing: ['Rtl', 'Vitest', 'Playwright'],
       others: ['Rust']
     },
 
     hobbies: ['Forest biking', 'Cooking', 'Sauna & ice swimming' ],
 
-    currentlyLearning: ['GraphQl', 'Python', 'AWS cloud service' ]
+    currentlyLearning: ['TypeScript', 'Python', 'AWS cloud service' ]
   };
 
   return (
