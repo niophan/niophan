@@ -35,12 +35,13 @@ const Nio = () => {
       embeddedSystem: ['c++', 'Arduino'],
       apiTechs: ['REST', 'GraphQl'],
       testing: ['Rtl', 'Vitest', 'Playwright'],
-      others: ['Rust']
+      mobileAppTech: ['React Native'],
+      others: ['Rust', 'Python']
     },
 
     hobbies: ['Forest biking', 'Cooking', 'Sauna & ice swimming' ],
 
-    currentlyLearning: ['TypeScript', 'Python', 'AWS cloud service' ]
+    currentlyLearning: ['Jetpack Compose', 'Kotlin', 'TypeScript' ]
   };
 
   return (
